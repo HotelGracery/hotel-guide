@@ -1,4 +1,4 @@
-const APP_VERSION = '2026.06.01.04';
+const APP_VERSION = '2026.06.01.06';
 const CACHE_NAME = 'guide-cache-' + APP_VERSION;
 const PRECACHE_URLS = [
   "./",
@@ -11,7 +11,8 @@ const PRECACHE_URLS = [
   "./hotel-room-facilities.html",
   "./hotel-laundry-service.html",
   "./hotel-rental-items.html",
-  "./taipei-guide.html"
+  "./taipei-guide.html",
+  "./9C8AD261-A01E-4D4E-A639-67CE3BB7C54A.jpeg"
 ];
 
 self.addEventListener('install', function(event) {
