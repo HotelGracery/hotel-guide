@@ -1,0 +1,25 @@
+{
+  "name": "Hotel Gracery Taipei 旅客指南",
+  "short_name": "旅客指南",
+  "description": "Hotel Gracery Taipei 旅客指南",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F0E8",
+  "theme_color": "#F5F0E8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiB2aWV3Qm94PSIwIDAgMTkyIDE5MiI+PHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIHJ4PSIzOCIgZmlsbD0iI0Y1RjBFOCIvPjxjaXJjbGUgY3g9Ijk2LjAiIGN5PSI5Ni4wIiByPSI2MS40NCIgZmlsbD0iI0RERThEOCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTIlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMzgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM0QTZFNTgiPkhHPC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxMDIiIGZpbGw9IiNGNUYwRTgiLz48Y2lyY2xlIGN4PSIyNTYuMCIgY3k9IjI1Ni4wIiByPSIxNjMuODQiIGZpbGw9IiNEREU4RDgiLz48dGV4dCB4PSI1MCUiIHk9IjUyJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwMiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzRBNkU1OCI+SEc8L3RleHQ+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
