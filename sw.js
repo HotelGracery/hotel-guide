@@ -1,4 +1,4 @@
-const APP_VERSION = '2026.06.01.02';
+const APP_VERSION = '2026.06.01.04';
 const CACHE_NAME = 'guide-cache-' + APP_VERSION;
 const PRECACHE_URLS = [
   "./",
